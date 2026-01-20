@@ -18,7 +18,7 @@ export default function ContactForm() {
   const [submitStatus, setSubmitStatus] = useState(null);
 
   const categories = [
-    "General Inquiry",
+    "General Inquiry And General Information",
     "Technical Support",
     "Sales Question",
     "Partnership",

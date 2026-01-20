@@ -4,8 +4,8 @@ import SingleStateObject from "./SingleStateObject";
 
 export default function Day5Example3() {
   const sampleData = {
-    firstName: "Sharique",
-    lastName: "Husain",
+    firstName: "",
+    lastName: "",
     email: "sharique.husain@example.com",
   };
 
