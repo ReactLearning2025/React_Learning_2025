@@ -19,7 +19,7 @@ export default function ContactForm() {
 
   const categories = [
     "General Inquiry And General Information",
-    "Technical Support",
+    "Technical Support with full guidance",
     "Sales Question",
     "Partnership",
     "Feedback",
