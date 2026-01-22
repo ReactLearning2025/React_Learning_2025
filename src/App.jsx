@@ -15,6 +15,9 @@ import Day5Example3 from "./Day5React/Day5Example3/Day5Example3";
 import Day5Example4 from "./Day5React/Day5Example3/Day5Example4";
 import Day5Example5 from "./Day5React/Day5Example3/Day5Example5";
 import Day5Example6 from "./Day5React/Day5Example3/Day5Example6";
+import LifecycleDemo from "./Day6React/LifeCycleDemo";
+import PageTitleUpdater from "./Day6React/PageTitleUpdater";
+import LiveSearch from "./Day6React/LiveSearch";
 
 function App() {
   return (
@@ -49,6 +52,12 @@ function App() {
       <Day5Example5 />
       <hr />
       <Day5Example6 />
+      <hr />
+      <LifecycleDemo />
+      <hr />
+      <PageTitleUpdater />
+      <hr />
+      <LiveSearch />
     </>
   );
 }
