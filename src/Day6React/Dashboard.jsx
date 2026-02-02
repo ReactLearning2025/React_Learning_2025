@@ -62,7 +62,7 @@ export default function Dashboard() {
     const intervalId = setInterval(() => {
       console.log("⏰ Auto-refreshing data...");
       refreshCurrentTab();
-    }, 30000); // 30 seconds
+    },30000); // 30 seconds
 
     // Cleanup: Clear interval when component unmounts or autoRefresh turns off
     return () => {
