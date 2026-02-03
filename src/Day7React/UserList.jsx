@@ -84,7 +84,7 @@ function UserList() {
       <div className="max-w-6xl mx-auto">
         {/* Header */}
         <div className="text-center mb-12">
-          <h1 className="text-5xl font-bold text-white mb-4">👥 User List</h1>
+          <h1 className="text-5xl font-bold text-white mb-4">User List</h1>
           <p className="text-xl text-white opacity-90">
             Fetched {users.length} users from API
           </p>

@@ -171,7 +171,7 @@ function TodoApp() {
       <div className="max-w-4xl mx-auto">
         {/* Header */}
         <div className="text-center mb-8">
-          <h1 className="text-5xl font-bold text-white mb-4">✅ Todo App</h1>
+          <h1 className="text-5xl font-bold text-white mb-4">Todo App</h1>
           <p className="text-xl text-white opacity-90">Full CRUD Operations</p>
         </div>
 
@@ -223,7 +223,7 @@ function TodoApp() {
         <div className="space-y-4">
           {todos.length === 0 ? (
             <div className="bg-white rounded-xl p-12 text-center shadow-lg">
-              <div className="text-6xl mb-4">📝</div>
+              <div className="text-6xl mb-4"></div>
               <h3 className="text-2xl font-semibold text-gray-700">
                 No todos yet!
               </h3>
