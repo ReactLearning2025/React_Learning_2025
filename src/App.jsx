@@ -19,6 +19,9 @@ import Dashboard from "./Day6React/Dashboard";
 import LifecycleDemo from "./Day6React/LifeCycleDemo";
 import PageTitleUpdater from "./Day6React/PageTitleUpdater";
 import LiveSearch from "./Day6React/LiveSearch";
+import UserList from "./Day7React/UserList";
+import TodoApp from "./Day7React/TodoApp";
+import LoginForm from "./Day5React/Day5Example3/Day5Example4";
 
 function App() {
   return (
@@ -61,6 +64,12 @@ function App() {
       <LiveSearch />
       <hr />
       <Dashboard />
+      <hr />
+      <UserList />
+      <hr />
+      <TodoApp />
+      <hr />
+      <LoginForm />
     </>
   );
 }
